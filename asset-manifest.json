@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/hierarchy-table/static/css/main.9c5ee5c0.css",
+    "main.js": "/hierarchy-table/static/js/main.8344770f.js",
+    "static/js/453.d375e658.chunk.js": "/hierarchy-table/static/js/453.d375e658.chunk.js",
+    "index.html": "/hierarchy-table/index.html",
+    "main.9c5ee5c0.css.map": "/hierarchy-table/static/css/main.9c5ee5c0.css.map",
+    "main.8344770f.js.map": "/hierarchy-table/static/js/main.8344770f.js.map",
+    "453.d375e658.chunk.js.map": "/hierarchy-table/static/js/453.d375e658.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9c5ee5c0.css",
+    "static/js/main.8344770f.js"
+  ]
+}
